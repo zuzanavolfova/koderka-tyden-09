@@ -5,6 +5,7 @@ Toto jsou podklady pro video lekce pro 9. týden online kurzu Staň se kóderkou
 Tento týden se budemě věnovat těmto oblastem:
 - **Eleventy** - začneme seriál o generátoru statických webů Eleventy
 - **Sass** - rozdělení CSS do více souborů, architektura projektu
+- **CSS selektory** - ukázka pokročilejších CSS selektorů
 
 
 ## Stažení podkladů
