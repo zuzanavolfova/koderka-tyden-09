@@ -1,0 +1,13 @@
+{
+  "name": "01-prvni-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"npx @11ty/eleventy",
+    "serve":"npx @11ty/eleventy --serve"
+    },
+  "keywords": [],
+  "author": "Zuzana Volfova",
+  "license": "ISC"
+}
